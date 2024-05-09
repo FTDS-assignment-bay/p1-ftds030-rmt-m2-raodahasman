@@ -1,3 +1,0 @@
-link deployment : https://huggingface.co/spaces/raodahasman/Water_quality_prediction
-
-link dataset : https://www.kaggle.com/datasets/mssmartypants/water-quality
